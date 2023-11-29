@@ -1,11 +1,10 @@
 # passage.js-component
 ## cd client 
 - `npm install`
-- `npm start`
+- `npm run dev`
 ## cd server 
 - `npm install`
-- `npm run dev`
-
+- `npm start`
 ### change .env keys 
 - epi
 - appkey
